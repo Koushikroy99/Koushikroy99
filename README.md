@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Koushik Roy</h1>
-<h3 align="center">Now I'm a student of MCA. I have recently completed my BCA degree. Besides having my degree, I also have 3-years’ experience of extensive web development. I will develop any kind of website from scratch according to your requirement. Also, I have experience in creating ecommerce websites. I have experience in PHP, HTML5, CSS , Java Script, Bootstrap, .</h3>
+<h3 align="center">Now I'm a student of MCA. I have recently completed my BCA degree. Besides having my degree, I also have 6-years’ experience of extensive web development. I will develop any kind of website from scratch according to your requirement. Also, I have experience in creating ecommerce websites. I have experience in PHP, HTML5, CSS , Java Script, Bootstrap, WordPress.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koushikroy99&label=Profile%20views&color=0e75b6&style=flat" alt="koushikroy99" /> </p>
 
