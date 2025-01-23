@@ -4,7 +4,7 @@
 I am an accomplished **Network Engineer** with a strong educational background, holding both **Bachelor's and Master's degrees in Computer Applications**. Recently, I achieved my **CCNA certification**, showcasing my expertise in networking.
 
 <p align="left">
-  <img src="cloudcenter.gif" width="200" align="left" />
+  <img src="cloudcenter.gif" width="200" align="right" />
 </p>
 
 🔹 Passionate about **Networking, and IT Infrastructure**  
