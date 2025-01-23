@@ -50,9 +50,13 @@ You can reach me through the following platforms:
 
 You can reach me through the following platforms:
 
+## Connect with Me
+
+You can reach me through the following platforms:
+
 - **Email**: [koushikroy05042001@gmail.com](mailto:koushikroy05042001@gmail.com)
-- **LinkedIn**: [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.png)](https://www.linkedin.com/in/koushikroy99/)
-- **Twitter**: [![Twitter](https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_2021.svg)](https://x.com/koushikroyfx)
-- **Portfolio Website**: [![Portfolio](https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_of_the_website.svg)](https://www.koushikroy.in/)
+- **LinkedIn**: [![LinkedIn](https://cdn.iconscout.com/icon/free/png-256/linkedin-2752142-2284975.png)](https://www.linkedin.com/in/koushikroy99/)
+- **Twitter**: [![Twitter](https://upload.wikimedia.org/wikipedia/commons/a/a9/Twitter_logo_2012.svg)](https://x.com/koushikroyfx)
+- **Portfolio Website**: [![Portfolio](https://img.icons8.com/ios/452/website.png)](https://www.koushikroy.in/)
 
 Let's build and optimize networks together! 🚀
