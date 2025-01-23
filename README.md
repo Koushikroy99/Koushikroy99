@@ -1,6 +1,8 @@
 # Hi there, I'm Koushik Roy! 👋 | Network Engineer
 
-![Network Engineer](cloudcenter.gif)
+<p align="left">
+  <img src="cloudcenter.gif" width="200" align="left" />
+</p>
 
 🔹 Passionate about **Networking, and IT Infrastructure**  
 🔹 Skilled in **Routing, Switching, TCP/IP, VLANs, and Network Troubleshooting**  
