@@ -1,4 +1,7 @@
-# Hi there, I'm Koushik Roy! 👋 | Network Engineer
+# Hi there, I'm [www.koushikroy.in](https://www.koushikroy.in/)! 👋 | Network Engineer
+## 🚀 About Me
+
+I am an accomplished **Network Engineer** with a strong educational background, holding both **Bachelor's and Master's degrees in Computer Applications**. Recently, I achieved my **CCNA certification**, showcasing my expertise in networking.
 
 <p align="left">
   <img src="cloudcenter.gif" width="200" align="left" />
@@ -7,10 +10,6 @@
 🔹 Passionate about **Networking, and IT Infrastructure**  
 🔹 Skilled in **Routing, Switching, TCP/IP, VLANs, and Network Troubleshooting**  
 🔹 Exploring **Network Automation, and Cloud Networking**
-
-## 🚀 About Me
-
-I am an accomplished **Network Engineer** with a strong educational background, holding both **Bachelor's and Master's degrees in Computer Applications**. Recently, I achieved my **CCNA certification**, showcasing my expertise in networking.
 
 ### **📌 About Me**  
 - 🏆 **CCNA Certified** – Strong foundation in **Networking Concepts & Technologies**  
