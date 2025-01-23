@@ -11,7 +11,7 @@
 I am an accomplished **Network Engineer** with a strong educational background, holding both **Bachelor's and Master's degrees in Computer Applications**. Recently, I achieved my **CCNA certification**, showcasing my expertise in networking.
 
 ### **📌 About Me**  
-- 🏆 **CCNA Certified** – Strong foundation in **networking concepts & technologies**  
+- 🏆 **CCNA Certified** – Strong foundation in **Networking Concepts & Technologies**  
 - 🌐 **Founder of [Sarada Foundation](https://www.saradafoundation.in/)** – Leading web & app development projects  
 - 🖥️ **Proficient in**  
 -- -✅ OSPF | BGP | TCP/IP | Routing & Switching
