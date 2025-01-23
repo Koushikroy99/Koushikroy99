@@ -1,4 +1,4 @@
-# Hi there, I'm [Koushik Roy]!(https://www.koushikroy.in/) 👋
+# Hi there, I'm Koushik Roy! 👋 | Network Engineer
 
 ![Network Engineer](2794209.jpg)
 
