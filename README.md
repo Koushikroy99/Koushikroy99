@@ -3,7 +3,7 @@
 I am an accomplished **Network Engineer** with a strong educational background, holding both **Bachelor's and Master's degrees in Computer Applications**. Recently, I achieved my **CCNA certification**, showcasing my expertise in networking.
 
 <p align="left">
-  <img src="cloudcenter.gif" width="250" align="right" />
+  <img src="cloudcenter.gif" width="280" align="right" />
 </p>
 
 🔹 Passionate about **Networking, and IT Infrastructure**  
@@ -37,8 +37,8 @@ In addition to my technical skills, I am the **Founder of Sarada Foundation** ([
 ## 📂 Projects & Contributions
 
 🔹 **Sarada Foundation** - Built and managed web/app development projects with a focus on **network security and performance optimization**.  
-🔹 **CCNA Labs & Simulations** - Hands-on experience with **Packet Tracer & GNS3** for networking solutions.– [GitHub Repo Link]  
-🔹 **Open Source Contributions** - Contributed to networking-related repositories on GitHub.– [GitHub Repo Link]
+🔹 **CCNA Labs & Simulations** - Hands-on experience with **Packet Tracer & GNS3** for networking solutions.
+🔹 **Open Source Contributions** - Contributed to networking-related repositories on GitHub.
 
 ## 📊 GitHub Stats
 
