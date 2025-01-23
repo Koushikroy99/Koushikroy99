@@ -37,7 +37,7 @@ In addition to my technical skills, I am the **Founder of Sarada Foundation** ([
 ## 📂 Projects & Contributions
 
 🔹 **Sarada Foundation** - Built and managed web/app development projects with a focus on **network security and performance optimization**.  
-🔹 **CCNA Labs & Simulations** - Hands-on experience with **Packet Tracer & GNS3** for networking solutions.
+🔹 **CCNA Labs & Simulations** - Hands-on experience with **Packet Tracer & GNS3** for networking solutions.-
 🔹 **Open Source Contributions** - Contributed to networking-related repositories on GitHub.
 
 ## 📊 GitHub Stats
