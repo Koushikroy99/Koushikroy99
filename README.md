@@ -42,22 +42,8 @@ In addition to my technical skills, I am the **Founder of Sarada Foundation** ([
 
 ![Koushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=koushikroy99&show_icons=true&theme=radical)
 
-![A Grade](https://img.shields.io/badge/Grade-A%2B-brightgreen)
-
 
 ## 📫 Connect with Me
-
-You can reach me through the following platforms:
-
-## Connect with Me
-
-You can reach me through the following platforms:
-
-## Connect with Me
-
-You can reach me through the following platforms:
-
-## Connect with Me
 
 You can reach me through the following platforms:
 
