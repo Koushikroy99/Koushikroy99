@@ -44,8 +44,11 @@ In addition to my technical skills, I am the **Founder of Sarada Foundation** ([
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/koushikroy99)  
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://x.com/koushikroyfx)  
-📧 Email: koushikroy05042001@gmail.com  
+You can reach me through the following platforms:
+
+- **Email**: [koushikroy05042001@gmail.com](mailto:koushikroy05042001@gmail.com)
+- **LinkedIn**: [koushikroy99](https://www.linkedin.com/in/koushikroy99/)
+- **Twitter**: [@koushikroyfx](https://x.com/koushikroyfx)
+- **Portfolio Website**: [www.koushikroy.in](https://www.koushikroy.in/)
 
 Let's build and optimize networks together! 🚀
