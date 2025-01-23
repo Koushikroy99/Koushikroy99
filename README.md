@@ -1,11 +1,11 @@
 ### **🌌 Hello, I'm Koushik Roy!**  
-🚀 **Network Engineer | CCNA Certified | Founder at Sarada Foundation**  
+🚀 **Network Engineer | CCNA Certified**  
 
 ![Network Engineer](https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif)  
 
 🔹 Passionate about **Networking, Cybersecurity, and IT Infrastructure**  
 🔹 Skilled in **Routing, Switching, TCP/IP, VLANs, and Network Troubleshooting**  
-🔹 Exploring **Linux, Network Automation, and Cloud Networking**  
+🔹 Exploring **Network Automation, and Cloud Networking**  
 
 ---
 
@@ -13,7 +13,7 @@
 - 🏆 **CCNA Certified** – Strong foundation in **networking concepts & technologies**  
 - 🌐 **Founder of [Sarada Foundation](https://www.saradafoundation.in/)** – Leading web & app development projects  
 - 🖥️ Proficient in **OSPF, BGP, VLAN, Subnetting, DNS, DHCP**  
-- ⚡ Currently learning **Network Automation (Python, Ansible) & Linux**  
+- ⚡ Currently learning **Network Automation (Python) & Linux**  
 - 📚 Sharing my journey through **#100DaysOfNetworkingExpart**  
 
 ---
