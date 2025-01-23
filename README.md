@@ -15,8 +15,8 @@ I am an accomplished **Network Engineer** with a strong educational background, 
 - 🌐 **Founder of [Sarada Foundation](https://www.saradafoundation.in/)** – Leading web & app development projects  
 - 🖥️ **Proficient in**  
 -- -✅ OSPF | BGP | TCP/IP | Routing & Switching
-- --✅ VLAN | Subnetting | DHCP | DNS | STP
-- --✅ Network Troubleshooting | Team Management | Communication
+  --✅ VLAN | Subnetting | DHCP | DNS | STP
+  --✅ Network Troubleshooting | Team Management | Communication
 - ⚡ Currently learning **Network Automation (Python) & Linux**  
 - 📚 Sharing my journey through **#100DaysOfNetworkingExpart**  
 
