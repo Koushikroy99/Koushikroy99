@@ -20,7 +20,7 @@ I am an accomplished **Network Engineer** with a strong educational background, 
 - --✅ VLAN | Subnetting | DHCP | DNS | STP | EtherChannel
 - --✅ Network Troubleshooting | Team Management | Communication
 - ⚡ Currently learning **Network Automation (Python) & Linux**  
-- 📚 Sharing my journey through **#100DaysOfNetworkingExpart**  
+- 📚 Sharing my journey through **[#100DaysOfNetworkingExpart](https://github.com/Koushikroy99/100DaysOfNetworkingExpart)**  
 
 ## 🌟 Experience & Startup
 
