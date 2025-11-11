@@ -27,7 +27,7 @@ Holding both **Bachelor’s and Master’s degrees in Computer Applications**, I
 --⚙️ **Systems & Automation:** Linux (Ubuntu), Windows Server, Azure (Basics), Python (Network Automation)  
 --🧠 **Soft Skills:** Team Leadership, Client Coordination, Problem Solving, Communication  
 --⚡ **Currently learning:** Network Automation (Python), FortiGate Firewall & Azure-700  
---📚 **Sharing my journey:** #100DaysOfNetworkingExpert  
+--📚 **Sharing my journey:** **[#100DaysOfNetworkingExpert](https://github.com/Koushikroy99/100DaysOfNetworkingExpert)**  
 
 ---
 
