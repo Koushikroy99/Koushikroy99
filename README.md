@@ -8,12 +8,12 @@
 ---
 
 ### 🧠 About Me  
-I am a **CCNA-certified** and **CCNP-trained Network Engineer** with **2+ years of experience** in **enterprise**, **ISP**, and **Data Center environments**.  
+I am a **CCNA-certified** and **CCNP-trained Network Engineer** with **2+ years of experience** in **Enterprise** and **ISP** environments.  
 Holding both **Bachelor’s and Master’s degrees in Computer Applications**, I specialize in **Cisco ACI Fabric, Nexus 9K series, and ASR 9906 routers**, with expertise in **routing, switching, and troubleshooting complex network infrastructures**.
 
 🔹 Passionate about **Networking, IT Infrastructure, and IoT Security**  
 🔹 Skilled in **Routing, Switching, TCP/IP, VLANs, and Network Troubleshooting**  
-🔹 Exploring **Network Automation (Python)** and **Cloud Networking (Azure)**  
+🔹 Exploring **FortiGate Firewall**,**Network Automation (Python)** and **Cloud Networking (Azure)**  
 
 ---
 
@@ -49,7 +49,7 @@ Holding both **Bachelor’s and Master’s degrees in Computer Applications**, I
 
 ### 👨‍💼 Founder Experience  
 
-#### 🚨 **Founder – SafeTrackID** *(2025 – Present)*  
+#### 🚨 **Founder – [SafeTrackID](https://www.safetrackid.com/)** *(2025 – Present)*  
 - Building a **security technology startup** focused on **personal safety and IoT solutions**.  
 - Developed **India’s first Smart GPS ID card** for school students with **real-time tracking**, **SOS alerts**, and **automated attendance**.  
 - Expanding the system to **women’s safety** and **IT industry security solutions**.  
@@ -73,11 +73,7 @@ Holding both **Bachelor’s and Master’s degrees in Computer Applications**, I
 - Built a **multi-campus WAN** using **OSPF** and static routing.  
 - Implemented **VLAN segmentation**, **DHCP services**, and **security policies** for departmental communication.  
 
-🔹 **SafeTrackID** – Building a scalable **IoT-based GPS security platform** for schools and individuals.  
-🔹 **Sarada Foundation** – Managed client **networks, web servers, and infrastructure** for web/app projects.  
-🔹 **CCNA Labs & Simulations** – Configured **routing and switching labs** in Packet Tracer & GNS3.  
 🔹 **Open Source** – Contributing to **networking and automation repositories** on GitHub.  
-
 ---
 
 ### 🎓 Education & Certifications  
@@ -86,18 +82,24 @@ Holding both **Bachelor’s and Master’s degrees in Computer Applications**, I
 🎓 **BCA** – Michael Madhusudan Memorial College, Durgapur *(CGPA: 8.56)*  
 
 📘 **CCNA (Cisco Certified Network Associate)** – *March 17, 2025*  
-[▶ View Certificate](https://drive.google.com/file/d/1RYSmdhvqjxeUgoDSK91F_LYSXIxZv2G4/view)  
+<a href="https://drive.google.com/file/d/1RYSmdhvqjxeUgoDSK91F_LYSXIxZv2G4/view" target="_blank">
+  <img src="https://img.shields.io/badge/▶ View%20Certificate-0A66C2?style=for-the-badge&logo=cisco&logoColor=white" align="right">
+</a>  
 *Routing & Switching, VLANs, OSPF, EIGRP, BGP, Subnetting, Troubleshooting*  
 
 🧩 **CCNP (Cisco Certified Network Professional)** – *Trained, Feb 2024*  
 *Advanced routing, switching, and troubleshooting for complex enterprise networks*  
 
 ⚙️ **Network Addressing and Basic Troubleshooting (Cisco Networking Academy)** – *Dec 20, 2023*  
-[▶ View Certificate](https://drive.google.com/file/d/1jaC4-i9Bbd6ysZD7uTl0W9mszoxDK4Xf/view)  
+<a href="https://drive.google.com/file/d/1jaC4-i9Bbd6ysZD7uTl0W9mszoxDK4Xf/view" target="_blank">
+  <img src="https://img.shields.io/badge/▶ View%20Certificate-0A66C2?style=for-the-badge&logo=cisco&logoColor=white" align="right">
+</a>  
 *IPv6, Neighbor Discovery, Network Troubleshooting*  
 
 💡 **Networking Basics (Cisco Networking Academy)** – *Oct 09, 2023*  
-[▶ View Certificate](https://drive.google.com/file/d/1fktChFs3VH8TFtW74prJQFS_V6pyoiRv/view)  
+<a href="https://drive.google.com/file/d/1fktChFs3VH8TFtW74prJQFS_V6pyoiRv/view" target="_blank">
+  <img src="https://img.shields.io/badge/▶ View%20Certificate-0A66C2?style=for-the-badge&logo=cisco&logoColor=white" align="right">
+</a>  
 *TCP/IP, OSI Model, Network Security, Router/Switch Configuration*  
 
 ---
