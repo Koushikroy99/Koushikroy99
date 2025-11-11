@@ -7,7 +7,7 @@
 
 ---
 
-### 🧠 About Me  
+### 📌 About Me  
 I am a **CCNA-certified** and **CCNP-trained Network Engineer** with **2+ years of experience** in **Enterprise** and **ISP** environments.  
 Holding both **Bachelor’s and Master’s degrees in Computer Applications**, I specialize in **Cisco ACI Fabric, Nexus 9K series, and ASR 9906 routers**, with expertise in **routing, switching, and troubleshooting complex network infrastructures**.
 
@@ -39,7 +39,7 @@ Holding both **Bachelor’s and Master’s degrees in Computer Applications**, I
 - Creating and executing **MOPs** to ensure smooth network transitions.  
 - Collaborating with **L2/L3 teams** and **Cisco TAC** for escalations.  
 
-#### 🖥️ **Network Engineer L1 – AxiomFlux Tech (Kolkata)** *(2023 – 2025)*  
+#### 🏢 **Network Engineer L1 – AxiomFlux Tech (Kolkata)** *(2023 – 2025)*  
 - Managed **LAN/WAN infrastructure**, **VLANs**, **DHCP**, **DNS**, and **NAT configurations**.  
 - Performed **daily network health checks**, interface monitoring, and fault troubleshooting.  
 - Provided **remote L1 support** to field engineers and clients.  
@@ -87,16 +87,16 @@ Holding both **Bachelor’s and Master’s degrees in Computer Applications**, I
 </a>  
 *Routing & Switching, VLANs, OSPF, EIGRP, BGP, Subnetting, Troubleshooting*  
 
-🧩 **CCNP (Cisco Certified Network Professional)** – *Trained, Feb 2024*  
+📘 **CCNP (Cisco Certified Network Professional)** – *Trained, Feb 2024*  
 *Advanced routing, switching, and troubleshooting for complex enterprise networks*  
 
-⚙️ **Network Addressing and Basic Troubleshooting (Cisco Networking Academy)** – *Dec 20, 2023*  
+📘 **Network Addressing and Basic Troubleshooting (Cisco Networking Academy)** – *Dec 20, 2023*  
 <a href="https://drive.google.com/file/d/1jaC4-i9Bbd6ysZD7uTl0W9mszoxDK4Xf/view" target="_blank">
   <img src="https://img.shields.io/badge/▶ View%20Certificate-0A66C2?style=for-the-badge&logo=cisco&logoColor=white" align="right">
 </a>  
 *IPv6, Neighbor Discovery, Network Troubleshooting*  
 
-💡 **Networking Basics (Cisco Networking Academy)** – *Oct 09, 2023*  
+📘 **Networking Basics (Cisco Networking Academy)** – *Oct 09, 2023*  
 <a href="https://drive.google.com/file/d/1fktChFs3VH8TFtW74prJQFS_V6pyoiRv/view" target="_blank">
   <img src="https://img.shields.io/badge/▶ View%20Certificate-0A66C2?style=for-the-badge&logo=cisco&logoColor=white" align="right">
 </a>  
