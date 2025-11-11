@@ -1,6 +1,5 @@
-# <h1 align="center">Hi there, I'm Koushik Roy! 👋</h1>
-## 🚀
-<h3 align="center">🌐 Network Engineer | Founder | IoT & Security Innovator 🚀</h3>
+# <h1 align="center">Hi there, I'm <a href="https://www.koushikroy.in/">Koushik Roy</a>! 👋</h1>
+<h3 align="center">🌐 Network Engineer | Founder | Tech Enthusiast 🚀</h3>
 
 <p align="left">
   <img src="cloudcenter.gif" width="280" align="right" />
@@ -9,7 +8,7 @@
 ---
 
 ### 🧠 About Me  
-I am a **CCNA-certified** and **CCNP-trained Network Engineer** with **2+ years of experience** in **ISP and Data Center environments**.  
+I am a **CCNA-certified** and **CCNP-trained Network Engineer** with **2+ years of experience** in **enterprise**, **ISP**, and **Data Center environments**.  
 Holding both **Bachelor’s and Master’s degrees in Computer Applications**, I specialize in **Cisco ACI Fabric, Nexus 9K series, and ASR 9906 routers**, with expertise in **routing, switching, and troubleshooting complex network infrastructures**.
 
 🔹 Passionate about **Networking, IT Infrastructure, and IoT Security**  
@@ -18,17 +17,17 @@ Holding both **Bachelor’s and Master’s degrees in Computer Applications**, I
 
 ---
 
-### 📌 About Me  
+### 🛠️ Skills & Technologies  
 
-🏆 **CCNA Certified** – Strong foundation in Routing & Switching, VLANs, and Troubleshooting  
-🌐 **Founder of SafeTrackID** – Building **India’s first Smart GPS ID card for schools**  
-💡 **Co-Founder of Sarada Foundation** – Delivered web & app projects and managed network infrastructure  
-🖥️ **Proficient in:**  
---✅ OSPF | EIGRP | BGP | ISIS | MPLS (Basics)  
---✅ VLAN | DHCP | DNS | STP | EtherChannel | Subnetting  
---✅ ACI Fabric | APIC | ASR 9906 | Nexus 9K | Network Troubleshooting  
-⚡ **Currently learning:** Network Automation (Python) & Linux Administration  
-📚 **Sharing my journey:** #100DaysOfNetworkingExpert  
+--💡 **Networking:** OSPF, EIGRP, BGP, ISIS, MPLS (Basics), VRRP, VLAN, Subnetting  
+--🔐 **Switching:** STP, EtherChannel, Trunking, Port Security  
+--🌍 **IP Services:** DHCP, DNS, NAT  
+--🧩 **Tools:** Netcool, SolarWinds, ServiceNow, Wireshark, GNS3, Packet Tracer, EVE-NG  
+--🖥️ **Hardware:** Cisco ASR 9906, Nexus 9K (9500/9300), ACI Fabric, APIC Controller  
+--⚙️ **Systems & Automation:** Linux (Ubuntu), Windows Server, Azure (Basics), Python (Network Automation)  
+--🧠 **Soft Skills:** Team Leadership, Client Coordination, Problem Solving, Communication  
+--⚡ **Currently learning:** Network Automation (Python), FortiGate Firewall & Azure-700  
+--📚 **Sharing my journey:** #100DaysOfNetworkingExpert  
 
 ---
 
@@ -51,10 +50,6 @@ Holding both **Bachelor’s and Master’s degrees in Computer Applications**, I
 ### 👨‍💼 Founder Experience  
 
 #### 🚨 **Founder – SafeTrackID** *(2025 – Present)*  
-<p align="center">
-  <img src="https://via.placeholder.com/600x200?text=SafeTrackID+-+Smart+GPS+ID+Card+for+Schools" alt="SafeTrackID Banner"/>
-</p>
-
 - Building a **security technology startup** focused on **personal safety and IoT solutions**.  
 - Developed **India’s first Smart GPS ID card** for school students with **real-time tracking**, **SOS alerts**, and **automated attendance**.  
 - Expanding the system to **women’s safety** and **IT industry security solutions**.  
@@ -68,19 +63,15 @@ Holding both **Bachelor’s and Master’s degrees in Computer Applications**, I
 
 ---
 
-### 🛠️ Skills & Technologies  
+### 💼 Projects  
 
-💡 **Networking:** OSPF, EIGRP, BGP, ISIS, MPLS (Basics), VRRP, VLAN, Subnetting  
-🔐 **Switching:** STP, EtherChannel, Trunking, Port Security  
-🌍 **IP Services:** DHCP, DNS, NAT  
-🧩 **Tools:** Netcool, SolarWinds, ServiceNow, Wireshark, GNS3, Packet Tracer, EVE-NG  
-🖥️ **Hardware:** Cisco ASR 9906, Nexus 9K (9500/9300), ACI Fabric, APIC Controller  
-⚙️ **Systems & Automation:** Linux (Ubuntu), Windows Server, Azure (Basics), Python (Network Automation)  
-🧠 **Soft Skills:** Team Leadership, Client Coordination, Problem Solving, Communication  
+🏠 **Small Office / Home Office (SOHO) Network Design**  
+- Designed a complete **LAN setup with VLANs, DHCP, and inter-VLAN routing** using Cisco routers and switches.  
+- Conducted **bandwidth monitoring** and **connectivity optimization** for seamless performance.  
 
----
-
-### 📂 Projects & Contributions  
+🏫 **University Campus Network Implementation**  
+- Built a **multi-campus WAN** using **OSPF** and static routing.  
+- Implemented **VLAN segmentation**, **DHCP services**, and **security policies** for departmental communication.  
 
 🔹 **SafeTrackID** – Building a scalable **IoT-based GPS security platform** for schools and individuals.  
 🔹 **Sarada Foundation** – Managed client **networks, web servers, and infrastructure** for web/app projects.  
@@ -93,9 +84,21 @@ Holding both **Bachelor’s and Master’s degrees in Computer Applications**, I
 
 🎓 **MCA** – Dr. B. C. Roy Engineering College, Durgapur *(CGPA: 8.18)*  
 🎓 **BCA** – Michael Madhusudan Memorial College, Durgapur *(CGPA: 8.56)*  
-📘 **CCNA Certified** – Cisco *(March 2025)*  
-🧩 **CCNP Trained** – Cisco *(February 2024)*  
-⚙️ **Cisco Networking Academy** – Networking Basics, IPv6, Troubleshooting  
+
+📘 **CCNA (Cisco Certified Network Associate)** – *March 17, 2025*  
+[▶ View Certificate](https://drive.google.com/file/d/1RYSmdhvqjxeUgoDSK91F_LYSXIxZv2G4/view)  
+*Routing & Switching, VLANs, OSPF, EIGRP, BGP, Subnetting, Troubleshooting*  
+
+🧩 **CCNP (Cisco Certified Network Professional)** – *Trained, Feb 2024*  
+*Advanced routing, switching, and troubleshooting for complex enterprise networks*  
+
+⚙️ **Network Addressing and Basic Troubleshooting (Cisco Networking Academy)** – *Dec 20, 2023*  
+[▶ View Certificate](https://drive.google.com/file/d/1jaC4-i9Bbd6ysZD7uTl0W9mszoxDK4Xf/view)  
+*IPv6, Neighbor Discovery, Network Troubleshooting*  
+
+💡 **Networking Basics (Cisco Networking Academy)** – *Oct 09, 2023*  
+[▶ View Certificate](https://drive.google.com/file/d/1fktChFs3VH8TFtW74prJQFS_V6pyoiRv/view)  
+*TCP/IP, OSI Model, Network Security, Router/Switch Configuration*  
 
 ---
 
