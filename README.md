@@ -110,7 +110,6 @@ Additionally, I have experience in **network monitoring** using tools like **Net
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=koushikroy99&show_icons=true&theme=tokyonight" alt="Koushik Roy's GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.vercel.app/api?user=koushikroy99&theme=tokyonight" alt="Koushik Roy's GitHub Streak Stats" />
 </p>
 
 ---
