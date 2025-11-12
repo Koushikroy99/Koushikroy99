@@ -8,8 +8,12 @@
 ---
 
 ### 📌 About Me  
-I am a **CCNA-certified** and **CCNP-trained Network Engineer** with **2+ years of experience** in **Enterprise** and **ISP** environments.  
-Holding both **Bachelor’s and Master’s degrees in Computer Applications**, I specialize in **Cisco ACI Fabric, Nexus 9K series, and ASR 9906 routers**, with expertise in **routing, switching, and troubleshooting complex network infrastructures**.
+I am a **CCNA-certified** and **CCNP-trained Network Engineer** with hands-on experience in **Enterprise LAN/WAN** and **ISP/Data Center** environments.  
+Holding both **Bachelor’s and Master’s degrees in Computer Applications**, I specialize in **Cisco ACI Fabric, Nexus 9K series (9500/9300 spine-leaf architecture)**, and **ASR 9906 routers**, with strong expertise in **routing, switching, and troubleshooting complex network infrastructures**.  
+I am proficient in **OSPF, EIGRP, BGP (iBGP/eBGP), ISIS**, and have foundational knowledge of **MPLS** and **VRRP**.  
+Additionally, I have experience in **network monitoring** using tools like **Netcool** and **SolarWinds**, preparing **Method of Procedures (MOPs)**, and ensuring seamless network operations through effective collaboration with **L2/L3 teams** and **ISPs**.  
+
+---
 
 🔹 Passionate about **Networking, IT Infrastructure, and IoT Security**  
 🔹 Skilled in **Routing, Switching, TCP/IP, VLANs, and Network Troubleshooting**  
@@ -33,18 +37,14 @@ Holding both **Bachelor’s and Master’s degrees in Computer Applications**, I
 
 ### 🌟 Professional Experience  
 
-#### 🏢 **Network Engineer L1 – Teleindia Networks (Bangalore)** *(2025 – Present)*  
+#### 🏢 **Network Engineer L1 – Teleindia Networks (Bangalore)** *(October 2025 – Present)*  
 - Monitoring and supporting **Cisco ACI fabric (APIC, Nexus 9500/9300)** and **ASR 9906 routers**.  
 - Working with **BGP, ISIS, MPLS (Basics), VRRP**, and network monitoring tools like **Netcool & SolarWinds**.  
-- Creating and executing **MOPs** to ensure smooth network transitions.  
-- Collaborating with **L2/L3 teams** and **Cisco TAC** for escalations.  
-
-#### 🏢 **Network Engineer L1 – AxiomFlux Tech (Kolkata)** *(2023 – 2025)*  
-- Managed **LAN/WAN infrastructure**, **VLANs**, **DHCP**, **DNS**, and **NAT configurations**.  
-- Performed **daily network health checks**, interface monitoring, and fault troubleshooting.  
-- Provided **remote L1 support** to field engineers and clients.  
-- Maintained documentation and handled escalations with ISPs and vendors.  
-
+- Configuring and troubleshooting **VLANs, STP/RSTP, Trunking**, and **Port Security** for optimized performance.  
+- Implementing and maintaining **DHCP, DNS, NAT, and ACLs** in enterprise environments.  
+- Creating and executing **MOPs (Method of Procedures)** to ensure smooth network transitions and minimize downtime.  
+- Collaborating closely with **L2/L3 teams**, **ISPs**, and **Cisco TAC** for escalations and problem resolution.  
+- Documenting network changes, maintaining accurate topology records, and supporting **incident management** via **ServiceNow**.  
 ---
 
 ### 👨‍💼 Founder Experience  
