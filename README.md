@@ -109,8 +109,8 @@ Additionally, I have experience in **network monitoring** using tools like **Net
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=koushikroy99&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=koushikroy99&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=koushikroy99&show_icons=true&theme=tokyonight" alt="Koushik Roy's GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.vercel.app?user=koushikroy99&theme=tokyonight" alt="Koushik Roy's GitHub Streak Stats" />
 </p>
 
 ---
