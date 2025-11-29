@@ -44,7 +44,7 @@ I also work with major monitoring platforms like **Cisco Prime, DNAC, Netcool, M
 
 ### 🌟 Professional Experience  
 
-#### 🏢 **Network Engineer – Teleindia Networks ** *(October 2025 – Present)*  
+#### 🏢 **Network Engineer – Teleindia Networks  *(October 2025 – Present)* ** 
 - Supporting and monitoring **Cisco ACI fabric (APIC + Nexus 9500/9300)** and **Cisco ASR 9906 routers**.  
 - Handling **L1/L2 troubleshooting**: routing issues, packet drops, latency, interface errors, slowness.  
 - Working on **BGP, ISIS, MPLS (Basics), VRRP**, enterprise routing & switching environments.  
