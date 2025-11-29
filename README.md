@@ -133,7 +133,7 @@ I also work with major monitoring platforms like **Cisco Prime, DNAC, Netcool, M
 📧 **Email:** koushikroy05042001@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/koushikroy99](https://www.linkedin.com/in/koushikroy99)  
 🐦 **Twitter:** [@koushikroyfx](https://x.com/koushikroyfx)  
-🌐 **Portfolio:** [www.koushikroy.in](https://koushikportfolio.vercel.app/)  
+🌐 **Portfolio:** [www.koushikportfolio.vercel.app](https://koushikportfolio.vercel.app/)  
 📞 **Mobile:** +91 8345910586 | 9883827329  
 
 ---
