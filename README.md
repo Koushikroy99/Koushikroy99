@@ -8,7 +8,7 @@
 ---
 
 ### 📌 About Me  
-I'm a **CCNA-certified** and **CCNP-trained Network Engineer** with hands-on experience in **Enterprise LAN/WAN**, **NOC operations**, and **ISP/Data Center environments**.
+I'm a **CCNA-certified** and **CCNP-trained Network Engineer** with hands-on experience in **Enterprise LAN/WAN**, **NOC operations**, and **ISP environments**.
 
 I have worked extensively on  
 • **Cisco ASR 9906 Routers**  
@@ -68,33 +68,52 @@ I also work with major monitoring platforms like **Cisco Prime, DNAC, Netcool, M
 
 ### 💼 Projects  
 
-🏠 **SOHO Network Deployment**  
-- Configured **VLANs, DHCP, ACLs, Inter-VLAN routing** with Cisco routers & switches.  
-- Implemented **bandwidth monitoring** & connectivity optimization.  
+🏠 **Small Office / Home Office (SOHO) Network Design**  
+- Designed a complete **LAN setup with VLANs, DHCP, and inter-VLAN routing** using Cisco routers and switches.  
+- Conducted **bandwidth monitoring** and **connectivity optimization** for seamless performance.  
 
-🏫 **Multi-Campus University Network**  
-- Built **OSPF-based WAN**, departmental VLAN segmentation & DHCP services.  
-- Configured access control and optimized routing for performance.  
+🏫 **University Campus Network Implementation**  
+- Built a **multi-campus WAN** using **OSPF** and static routing.  
+- Implemented **VLAN segmentation**, **DHCP services**, and **security policies** for departmental communication.  
 
-🔹 **Open Source:** Contributing to networking & automation repositories on GitHub.  
-
+🔹 **Open Source** – Contributing to **networking and automation repositories** on GitHub.  
 ---
 
 ### 🎓 Education & Certifications  
 
-🎓 **MCA** – Dr. B. C. Roy Engineering College  
-🎓 **BCA** – Michael Madhusudan Memorial College  
+🎓 **MCA** – Dr. B. C. Roy Engineering College, Durgapur *(CGPA: 8.18)*  
+🎓 **BCA** – Michael Madhusudan Memorial College, Durgapur *(CGPA: 8.56)*  
 
-📘 **CCNA (Cisco Certified Network Associate)** – *March 2025*  
-📘 **CCNP (Cisco Certified Network Professional)** – *Trained, 2024*  
-📘 **Cisco Networking Academy Certifications** – IPv6, Troubleshooting, Network Basics  
+📘 **CCNA (Cisco Certified Network Associate)** – *March 17, 2025*  
+<a href="https://drive.google.com/file/d/1RYSmdhvqjxeUgoDSK91F_LYSXIxZv2G4/view" target="_blank">
+  <img src="https://img.shields.io/badge/▶ View%20Certificate-0A66C2?style=for-the-badge&logo=cisco&logoColor=white" align="right">
+</a>  
+*Routing & Switching, VLANs, OSPF, EIGRP, BGP, Subnetting, Troubleshooting*  
+
+📘 **CCNP (Cisco Certified Network Professional)** – *Trained, Feb 2024*  
+*Advanced routing, switching, and troubleshooting for complex enterprise networks*  
+
+📘 **Network Addressing and Basic Troubleshooting (Cisco Networking Academy)** – *Dec 20, 2023*  
+<a href="https://drive.google.com/file/d/1jaC4-i9Bbd6ysZD7uTl0W9mszoxDK4Xf/view" target="_blank">
+  <img src="https://img.shields.io/badge/▶ View%20Certificate-0A66C2?style=for-the-badge&logo=cisco&logoColor=white" align="right">
+</a>  
+*IPv6, Neighbor Discovery, Network Troubleshooting*  
+
+📘 **Networking Basics (Cisco Networking Academy)** – *Oct 09, 2023*  
+<a href="https://drive.google.com/file/d/1fktChFs3VH8TFtW74prJQFS_V6pyoiRv/view" target="_blank">
+  <img src="https://img.shields.io/badge/▶ View%20Certificate-0A66C2?style=for-the-badge&logo=cisco&logoColor=white" align="right">
+</a>  
+*TCP/IP, OSI Model, Network Security, Router/Switch Configuration*  
 
 ---
 
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=koushikroy99&show_icons=true&theme=tokyonight" alt="Koushik Roy's GitHub Stats" />
+  <img 
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=koushikroy99&show_icons=true&theme=tokyonight" 
+       alt="Koushik Roy's GitHub Stats" 
+  />
 </p>
 
 ---
@@ -114,7 +133,7 @@ I also work with major monitoring platforms like **Cisco Prime, DNAC, Netcool, M
 📧 **Email:** koushikroy05042001@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/koushikroy99](https://www.linkedin.com/in/koushikroy99)  
 🐦 **Twitter:** [@koushikroyfx](https://x.com/koushikroyfx)  
-🌐 **Portfolio:** [www.koushikroy.in](https://www.koushikroy.in)  
+🌐 **Portfolio:** [www.koushikroy.in](https://koushikportfolio.vercel.app/)  
 📞 **Mobile:** +91 8345910586 | 9883827329  
 
 ---
