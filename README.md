@@ -110,10 +110,9 @@ I also work with major monitoring platforms like **Cisco Prime, DNAC, Netcool, M
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img 
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=koushikroy99&show_icons=true&theme=tokyonight" 
-       alt="Koushik Roy's GitHub Stats" 
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=koushikroy99&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=koushikroy99&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=koushikroy99&theme=tokyonight" />
 </p>
 
 ---
