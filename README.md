@@ -55,7 +55,7 @@ I also work with major monitoring platforms like **Cisco Prime, DNAC, Netcool, M
 
 ---
 
-#### 🏢 **Network Operations Engineer – IBM  (July 2022 – September 2025)**  
+#### 🏢 **Network Operations Engineer – IBM  (January 2021 – September 2025)**  
 - Managed enterprise **LAN/WAN** operations with Cisco 2600/3600/3700/3850/4500/9300 routers and switches.  
 - Configured & troubleshot **VLANs, STP, EtherChannel, DHCP, NAT**, Inter-VLAN routing.  
 - Troubleshot **OSPF, EIGRP, BGP, Static Routing**, and VRF-based segmentation.  
