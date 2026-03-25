@@ -39,30 +39,42 @@ I also work with major monitoring platforms like **Cisco Prime, DNAC, Netcool, M
 --🧠 **Soft Skills:** Incident Handling, Communication, Problem Solving, Team Coordination  
 --⚡ **Currently Learning:** Network Automation (Python), FortiGate Firewall & Azure-700  
 --📚 **Sharing my journey:** **[#100DaysOfNetworkingExpert](https://github.com/Koushikroy99/100DaysOfNetworkingExpert)**  
+---
+
+### 🌟 Professional Experience
+
+#### 🏢 **Network Engineer – IBM**  
+*(December 2025 – Present) | Enterprise Environment*  
+- Provided end‑to‑end troubleshooting for enterprise LAN/WAN networks; configured and maintained Cisco routers and switches (2600–9300 series).
+- Implemented VLANs, VTP, trunking, STP/RSTP/MSTP, EtherChannel, and high‑availability protocols (HSRP/VRRP).
+- Managed routing protocols: OSPF, EIGRP, BGP, RIP, Static Routes, and VRFs.
+- Worked with Cisco ASA firewall (ACLs, NAT, Site‑to‑Site & Remote Access VPN); troubleshot IPSec Phase 1/2 issues.
+- Performed packet analysis using Wireshark; supported Palo Alto and FortiGate firewalls (basic operations); assisted in security compliance and patching.
 
 ---
 
-### 🌟 Professional Experience  
-
-#### 🏢 **Network Engineer – Teleindia Networks  (October 2025 – Present)**
-- Supporting and monitoring **Cisco ACI fabric (APIC + Nexus 9500/9300)** and **Cisco ASR 9906 routers**.  
-- Handling **L1/L2 troubleshooting**: routing issues, packet drops, latency, interface errors, slowness.  
-- Working on **BGP, ISIS, MPLS (Basics), VRRP**, enterprise routing & switching environments.  
-- Performing **config changes, software upgrades, backups**, and maintaining version control.  
-- Using **Cisco DNAC, Cisco Prime, Netcool, MRTG/Cacti** for monitoring and network health checks.  
-- Supporting **P1/P2 incidents** and coordinating with **L2/L3 teams & ISPs**.  
-- Creating **MOPs**, documenting network changes, updating topology & inventory records.  
+#### 🏢 **Network Engineer – Teleindia Networks**  
+*(October 2025 – December 2025) | ISP & Data Center Environment*  
+- Supported ISP network operations and L2/L3 troubleshooting in a large‑scale service provider environment.
+- Configured and troubleshot Cisco ASR 9906 routers, Nexus 9000 (9300/9500) switches, and Cisco ACI fabric using APIC.
+- Managed routing protocols: BGP (iBGP/eBGP), OSPF, MPLS L3VPN, and Policy‑Based Routing.
+- Performed device health checks (CPU, memory, interface errors, logs), IOS upgrades, backups, and configuration changes.
+- Collaborated with L2/L3 teams for issue resolution and escalation handling.
 
 ---
 
-#### 🏢 **Network Operations Engineer – IBM  (January 2021 – September 2025)**  
-- Managed enterprise **LAN/WAN** operations with Cisco 2600/3600/3700/3850/4500/9300 routers and switches.  
-- Configured & troubleshot **VLANs, STP, EtherChannel, DHCP, NAT**, Inter-VLAN routing.  
-- Troubleshot **OSPF, EIGRP, BGP, Static Routing**, and VRF-based segmentation.  
-- Worked with **HSRP/VRRP**, performed redundancy checks & failover testing.  
-- Conducted traffic analysis using **Wireshark** and enterprise monitoring tools.  
-- Provided L1 support on **Cisco ASA, Palo Alto & FortiGate Firewalls**.  
-- Prepared **RCA reports, change documentation, network topology diagrams**.  
+#### 🏢 **Network Engineer – Vatya Technologies**  
+*(June 2022 – September 2025) | Enterprise Environment*  
+- Performed end‑to‑end troubleshooting of enterprise LAN/WAN networks, minimizing downtime and service disruption.
+- Configured and maintained Cisco routers and switches (2600, 3600, 3700, 3850, 4500, 9300 series).
+- Implemented and supported VLANs, VTP, trunking, STP/RSTP/MSTP, EtherChannel, DHCP, NAT, and Layer 3 routing.
+- Administered routing protocols including OSPF, EIGRP, BGP, RIP, Static Routes, and VRFs.
+- Configured and maintained high‑availability protocols (HSRP/VRRP) to ensure seamless network failover.
+- Managed Cisco ASA firewall environments (security zones, ACLs, object‑group policies), NAT (Static, Dynamic, PAT), and Site‑to‑Site / Remote Access VPN (IPSec).
+- Troubleshot VPN tunnel issues, including Phase 1/2 negotiation failures, and managed ASA Active/Standby failover.
+- Assisted with firmware upgrades, patch management, and security compliance.
+- Provided basic operational support for Palo Alto and FortiGate firewalls (policy validation, log analysis).
+- Collaborated with security teams during incident response and threat mitigation.
 
 ---
 
