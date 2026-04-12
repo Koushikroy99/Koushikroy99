@@ -45,29 +45,29 @@ I also work with major monitoring platforms like **Cisco Prime, DNAC, Netcool, M
 
 #### **MS Engineer – Network | NTT DATA, Chennai, India**  
 *(April 2026 – Present) | Data Center & ISP Environment*  
-- Supported Data Center and ISP network operations and L2/L3 troubleshooting in a large-scale service provider environment.  
-- Configured and troubleshooted Cisco ASR 9906 routers, Nexus 9000 (9300/9500) switches, and Cisco ACI fabric using APIC.  
-- Managed routing protocols: BGP (iBGP/eBGP), OSPF, MPLS L3VPN, and Policy-Based Routing.  
-- Performed device health checks (CPU, memory, interface errors, logs), IOS upgrades, backups, and configuration changes.  
-- Collaborated with L2/L3 teams for issue resolution and escalation handling.
+- Supported **Data Center and ISP network operations** and **L2/L3 troubleshooting** in a large-scale service provider environment.  
+- Configured and troubleshooted **Cisco ASR 9906** routers, **Nexus 9000 (9300/9500)** switches, and **Cisco ACI fabric** using **APIC**.  
+- Managed routing protocols: **BGP (iBGP/eBGP)**, **OSPF**, **MPLS L3VPN**, and **Policy-Based Routing**.  
+- Performed device health checks (**CPU, memory, interface errors, logs**), **IOS upgrades**, **backups**, and **configuration changes**.  
+- Collaborated with **L2/L3 teams** for issue resolution and escalation handling.
 
 #### **Network Engineer | IBM, Bengaluru, India**  
 *(July 2022 – September 2025) | Enterprise Environment*  
-- Performed end-to-end troubleshooting of enterprise LAN/WAN networks, minimizing downtime and service disruption.  
-- Configured and maintained Cisco routers and switches (2600, 3600, 3700, 3850, 4500, 9300 series).  
-- Implemented and supported VLANs, VTP, trunking, STP/RSTP/MSTP, EtherChannel, DHCP, NAT, and Layer 3 routing.  
-- Administered routing protocols including OSPF, EIGRP, BGP, RIP, Static Routes, and VRFs.  
-- Configured and maintained high-availability protocols (HSRP/VRRP) to ensure seamless network failover.  
-- Conducted packet-level network analysis using Wireshark and performed log monitoring for advanced troubleshooting.  
-- Managed Cisco ASA firewall environments, including security zones, ACL configurations, and object-group policies.  
-- Implemented and maintained NAT (Static NAT, Dynamic NAT, PAT) for internal and external network traffic translation.  
-- Configured and supported Site-to-Site VPN and Remote Access VPN (IPSec) connectivity.  
-- Troubleshot VPN tunnel issues, including Phase 1 and Phase 2 negotiation failures.  
-- Managed ASA High Availability (Active/Standby) failover configuration and testing.  
-- Assisted with firmware upgrades, patch management, and security compliance implementations.  
-- Provided basic operational support for Palo Alto and FortiGate firewalls, including policy validation and log analysis.  
-- Collaborated with security teams during incident response and threat mitigation activities.
-
+- Performed **end-to-end troubleshooting** of enterprise **LAN/WAN networks**, minimizing downtime and service disruption.  
+- Configured and maintained **Cisco routers and switches** (2600, 3600, 3700, 3850, 4500, 9300 series).  
+- Implemented and supported **VLANs**, **VTP**, **trunking**, **STP/RSTP/MSTP**, **EtherChannel**, **DHCP**, **NAT**, and **Layer 3 routing**.  
+- Administered routing protocols including **OSPF**, **EIGRP**, **BGP**, **RIP**, **Static Routes**, and **VRFs**.  
+- Configured and maintained **high-availability protocols** (**HSRP/VRRP**) to ensure seamless network failover.  
+- Conducted **packet-level network analysis** using **Wireshark** and performed **log monitoring** for advanced troubleshooting.  
+- Managed **Cisco ASA firewall** environments, including **security zones**, **ACL configurations**, and **object-group policies**.  
+- Implemented and maintained **NAT** (**Static NAT**, **Dynamic NAT**, **PAT**) for internal and external network traffic translation.  
+- Configured and supported **Site-to-Site VPN** and **Remote Access VPN** (**IPSec**) connectivity.  
+- Troubleshot **VPN tunnel issues**, including **Phase 1 and Phase 2 negotiation failures**.  
+- Managed **ASA High Availability** (**Active/Standby** failover) configuration and testing.  
+- Assisted with **firmware upgrades**, **patch management**, and **security compliance** implementations.  
+- Provided basic operational support for **Palo Alto** and **FortiGate firewalls**, including **policy validation** and **log analysis**.  
+- Collaborated with **security teams** during **incident response** and **threat mitigation** activities.
+---
 ### 💼 Projects  
 
 🏠 **Small Office / Home Office (SOHO) Network Design**  
