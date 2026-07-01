@@ -4,16 +4,16 @@
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" />
-  Hi, I'm <a href="https://koushikportfolio.vercel.app/">Koushik Roy</a>
+  Hi, I'm <a href="https://koushikportfolio.vercel.app/" target="_blank">Koushik Roy</a>
 </h1>
 <h3 align="center">🌐 Network Engineer | Data Center & Cloud Infrastructure | DevOps | CCNA Certified</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=koushikroy99&label=Profile%20Views&color=00D2FF&style=flat" alt="Profile Views" />
-  <a href="https://github.com/koushikroy99?tab=followers">
+  <a href="https://github.com/koushikroy99?tab=followers" target="_blank">
     <img src="https://img.shields.io/github/followers/koushikroy99?label=Followers&style=social" alt="GitHub Followers" />
   </a>
-  <a href="https://github.com/koushikroy99">
+  <a href="https://github.com/koushikroy99" target="_blank">
     <img src="https://img.shields.io/github/stars/koushikroy99?label=Stars&style=social" alt="GitHub Stars" />
   </a>
 </p>
@@ -39,7 +39,7 @@ Currently, I am **transitioning into Cloud Infrastructure and DevOps** by buildi
 I enjoy designing **scalable, automated, and reliable infrastructure** by combining networking, cloud, and DevOps practices.
 
 🔹 **Current Focus:** Network Automation, Cloud Networking, and DevOps Toolchain  
-🔹 **Sharing my journey:** [#30DaysOfDevOps](https://github.com/Koushikroy99/July2026_Koushik_Pathnex)
+🔹 **Sharing my journey:** [#30DaysOfDevOps](https://github.com/Koushikroy99/July2026_Koushik_Pathnex) (target="_blank")
 
 ---
 
@@ -48,7 +48,9 @@ I enjoy designing **scalable, automated, and reliable infrastructure** by combin
 > *Following the DevOps Roadmap 2026 as recommended by my mentor*
 
 #### ☁️ Cloud Fundamentals
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/>
+</a>
 
 #### 📦 Containerization & Orchestration
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -118,7 +120,7 @@ End-to-end troubleshooting of enterprise LAN/WAN networks with Cisco routers, sw
 
 ---
 
-#### 🟦 Co-Founder | AxiomFlux Tech *(2024 – Present)*
+#### 🟦 Co-Founder | [AxiomFlux Tech](https://www.axiomfluxtech.com/) *(2024 – Present)*
 Building immersive 3D experiences and AI-powered MVPs for startups. Specializing in turning complex ideas into market-ready products that stand out.
 
 **Recent Projects:**
@@ -126,13 +128,13 @@ Building immersive 3D experiences and AI-powered MVPs for startups. Specializing
 - [Adiantex](https://adiantex.com/) – Website development
 - [Ashley and Alvis](https://ashleyandalvis.com/) – Website development
 - [HG Construction](https://hgconstruction.in/) – Website development
-- [RK Maram Haripur](https://rkmaramharipur.org/) – Website development
+- [RKM Ramharipur](https://rkmaramharipur.org/) – Website development
 - [RKM Vidyaniketan Midnapore](https://www.rkmvmidnapore.org/) – Website development
 - [Wealth Watcher Management](https://wealthwatchermanagement.com/) – Website development
 
 ---
 
-#### 🟦 Founder | SafeTrackID *(Aug 2025 – Present)*
+#### 🟦 Founder | [SafeTrackID](https://www.safetrackid.com/) *(Aug 2025 – Present)*
 Built a complete digital identity protection platform from the ground up — from architecture design to full-stack development and production deployment.
 
 ---
@@ -141,10 +143,10 @@ Built a complete digital identity protection platform from the ground up — fro
 
 | Certification | Issuer | Date | Certificate |
 |---------------|--------|------|-------------|
-| **CCNA** (200-301) | Cisco | March 2025 | [![View](https://img.shields.io/badge/View_Certificate-0A66C2?style=for-the-badge&logo=cisco&logoColor=white)](https://drive.google.com/file/d/1RYSmdhvqjxeUgoDSK91F_LYSXIxZv2G4/view) |
+| **CCNA** (200-301) | Cisco | March 2025 | <a href="https://drive.google.com/file/d/1RYSmdhvqjxeUgoDSK91F_LYSXIxZv2G4/view" target="_blank"><img src="https://img.shields.io/badge/View_Certificate-0A66C2?style=for-the-badge&logo=cisco&logoColor=white" alt="View Certificate" /></a> |
 | **CCNP** (Trained) | N/A | February 2024 | — |
-| Network Addressing & Troubleshooting | Cisco Networking Academy | December 2023 | [![View](https://img.shields.io/badge/View_Certificate-0A66C2?style=for-the-badge&logo=cisco&logoColor=white)](https://drive.google.com/file/d/1jaC4-i9Bbd6ysZD7uTl0W9mszoxDK4Xf/view) |
-| Networking Basics | Cisco Networking Academy | October 2023 | [![View](https://img.shields.io/badge/View_Certificate-0A66C2?style=for-the-badge&logo=cisco&logoColor=white)](https://drive.google.com/file/d/1fktChFs3VH8TFtW74prJQFS_V6pyoiRv/view) |
+| Network Addressing & Troubleshooting | Cisco Networking Academy | December 2023 | <a href="https://drive.google.com/file/d/1jaC4-i9Bbd6ysZD7uTl0W9mszoxDK4Xf/view" target="_blank"><img src="https://img.shields.io/badge/View_Certificate-0A66C2?style=for-the-badge&logo=cisco&logoColor=white" alt="View Certificate" /></a> |
+| Networking Basics | Cisco Networking Academy | October 2023 | <a href="https://drive.google.com/file/d/1fktChFs3VH8TFtW74prJQFS_V6pyoiRv/view" target="_blank"><img src="https://img.shields.io/badge/View_Certificate-0A66C2?style=for-the-badge&logo=cisco&logoColor=white" alt="View Certificate" /></a> |
 | **AWS Certified Cloud Practitioner** *(in progress)* | AWS | TBD | 🔄 In Progress |
 
 ---
