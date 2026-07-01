@@ -102,7 +102,7 @@ I enjoy designing **scalable, automated, and reliable infrastructure** by combin
 
 | Certification | Issuer | Date | Certificate |
 |---------------|--------|------|-------------|
-| **CCNA** (Routing & Switching) | Cisco | March 2025 | [![View](https://img.shields.io/badge/View_Certificate-0A66C2?style=for-the-badge&logo=cisco&logoColor=white)](https://drive.google.com/file/d/1RYSmdhvqjxeUgoDSK91F_LYSXIxZv2G4/view) |
+| **CCNA** (200-301) | Cisco | March 2025 | [![View](https://img.shields.io/badge/View_Certificate-0A66C2?style=for-the-badge&logo=cisco&logoColor=white)](https://drive.google.com/file/d/1RYSmdhvqjxeUgoDSK91F_LYSXIxZv2G4/view) |
 | **CCNP** (Trained) | N/A | February 2024 | — |
 | Network Addressing & Troubleshooting | Cisco Networking Academy | December 2023 | [![View](https://img.shields.io/badge/View_Certificate-0A66C2?style=for-the-badge&logo=cisco&logoColor=white)](https://drive.google.com/file/d/1jaC4-i9Bbd6ysZD7uTl0W9mszoxDK4Xf/view) |
 | Networking Basics | Cisco Networking Academy | October 2023 | [![View](https://img.shields.io/badge/View_Certificate-0A66C2?style=for-the-badge&logo=cisco&logoColor=white)](https://drive.google.com/file/d/1fktChFs3VH8TFtW74prJQFS_V6pyoiRv/view) |
