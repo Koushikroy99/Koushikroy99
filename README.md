@@ -39,7 +39,7 @@ Currently, I am **transitioning into Cloud Infrastructure and DevOps** by buildi
 I enjoy designing **scalable, automated, and reliable infrastructure** by combining networking, cloud, and DevOps practices.
 
 🔹 **Current Focus:** Network Automation, Cloud Networking, and DevOps Toolchain  
-🔹 **Sharing my journey:** [#30DaysOfDevOpst](https://github.com/Koushikroy99/July2026_Koushik_Pathnex)
+🔹 **Sharing my journey:** [#30DaysOfDevOps](https://github.com/Koushikroy99/July2026_Koushik_Pathnex)
 
 ---
 
@@ -76,20 +76,17 @@ I enjoy designing **scalable, automated, and reliable infrastructure** by combin
 
 ### 💼 Professional Experience
 
-<details>
-<summary><b>🟦 MS Engineer – Network | NTT DATA, Chennai</b> <i>(April 2026 – Present)</i></summary>
-
+#### 🟦 MS Engineer – Network | NTT DATA, Chennai *(April 2026 – Present)*
 - Supporting **Data Center and ISP network operations** with **L2/L3 troubleshooting** in a large-scale environment.
 - Configuring and troubleshooting **Cisco ASR 9906 routers**, **Nexus 9000** series, and **Cisco ACI fabric** using **APIC**.
 - Managing routing protocols: **BGP (iBGP/eBGP)**, **OSPF**, **MPLS L3VPN**, and **Policy-Based Routing**.
 - Performing **device health checks**, **IOS upgrades**, **backups**, and **configuration changes**.
 - Collaborating with **L2/L3 teams** for issue resolution and escalation handling.
 - **DevOps alignment:** Automating network health checks using Python scripts; exploring **NetOps** practices.
-</details>
 
-<details>
-<summary><b>🟦 Network Engineer | IBM, Bengaluru</b> <i>(July 2022 – September 2025)</i></summary>
+---
 
+#### 🟦 Network Engineer | IBM, Bengaluru *(July 2022 – September 2025)*
 - Performed **end-to-end troubleshooting** of enterprise **LAN/WAN networks**, minimizing downtime.
 - Configured and maintained **Cisco routers and switches** (2600, 3600, 3700, 3850, 4500, 9300 series).
 - Implemented **VLANs**, **VTP**, **trunking**, **STP/RSTP/MSTP**, **EtherChannel**, **DHCP**, **NAT**.
@@ -98,23 +95,18 @@ I enjoy designing **scalable, automated, and reliable infrastructure** by combin
 - Managed **Cisco ASA firewalls** – security zones, ACLs, NAT, VPNs, and Active/Standby failover.
 - Provided operational support for **Palo Alto** and **FortiGate** firewalls.
 - **DevOps alignment:** Automated backup and configuration validation using Python & Ansible (self-initiated).
-</details>
 
 ---
 
 ### 📚 Certifications & Training
 
-| Certification | Issuer | Date |
-|---------------|--------|------|
-| **CCNA** (Routing & Switching) | Cisco | March 2025 |
-| **CCNP** (Trained) | N/A | February 2024 |
-| Network Addressing & Troubleshooting | Cisco Networking Academy | December 2023 |
-| Networking Basics | Cisco Networking Academy | October 2023 |
-| **AWS Certified Cloud Practitioner** *(in progress)* | AWS | TBD |
-
-[![View CCNA Certificate](https://img.shields.io/badge/▶%20CCNA-0A66C2?style=for-the-badge&logo=cisco&logoColor=white)](https://drive.google.com/file/d/1RYSmdhvqjxeUgoDSK91F_LYSXIxZv2G4/view)
-[![View Network Addressing](https://img.shields.io/badge/▶%20Network%20Addressing-0A66C2?style=for-the-badge&logo=cisco&logoColor=white)](https://drive.google.com/file/d/1jaC4-i9Bbd6ysZD7uTl0W9mszoxDK4Xf/view)
-[![View Networking Basics](https://img.shields.io/badge/▶%20Networking%20Basics-0A66C2?style=for-the-badge&logo=cisco&logoColor=white)](https://drive.google.com/file/d/1fktChFs3VH8TFtW74prJQFS_V6pyoiRv/view)
+| Certification | Issuer | Date | Certificate |
+|---------------|--------|------|-------------|
+| **CCNA** (Routing & Switching) | Cisco | March 2025 | [![View](https://img.shields.io/badge/View_Certificate-0A66C2?style=for-the-badge&logo=cisco&logoColor=white)](https://drive.google.com/file/d/1RYSmdhvqjxeUgoDSK91F_LYSXIxZv2G4/view) |
+| **CCNP** (Trained) | N/A | February 2024 | — |
+| Network Addressing & Troubleshooting | Cisco Networking Academy | December 2023 | [![View](https://img.shields.io/badge/View_Certificate-0A66C2?style=for-the-badge&logo=cisco&logoColor=white)](https://drive.google.com/file/d/1jaC4-i9Bbd6ysZD7uTl0W9mszoxDK4Xf/view) |
+| Networking Basics | Cisco Networking Academy | October 2023 | [![View](https://img.shields.io/badge/View_Certificate-0A66C2?style=for-the-badge&logo=cisco&logoColor=white)](https://drive.google.com/file/d/1fktChFs3VH8TFtW74prJQFS_V6pyoiRv/view) |
+| **AWS Certified Cloud Practitioner** *(in progress)* | AWS | TBD | 🔄 In Progress |
 
 ---
 
@@ -137,24 +129,17 @@ graph LR
     G --> H[Kubernetes]
     H --> I[CI/CD]
     I --> J[DevOps Engineer]
-
----
+```
 
 ### 🏗️ Projects
 
-<details>
-<summary><b>🏠 SOHO Network Design</b></summary>
-
+#### 🏠 SOHO Network Design
 - Designed a complete LAN setup with VLANs, DHCP, and inter-VLAN routing
 - Conducted bandwidth monitoring and connectivity optimization
-</details>
 
-<details>
-<summary><b>🏫 University Campus Network</b></summary>
-
+#### 🏫 University Campus Network
 - Built a multi-campus WAN using OSPF and static routing
 - Implemented VLAN segmentation, DHCP services, and security policies
-</details>
 
 ---
 
