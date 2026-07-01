@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" />
   Hi, I'm <a href="https://koushikportfolio.vercel.app/">Koushik Roy</a>
 </h1>
-<h3 align="center">🌐 Network Engineer | Data Center & Cloud Infrastructure | DevOps</h3>
+<h3 align="center">🌐 Network Engineer | Data Center & Cloud Infrastructure | DevOps | | CCNA Certified</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=koushikroy99&label=Profile%20Views&color=00D2FF&style=flat" alt="Profile Views" />
