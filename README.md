@@ -45,7 +45,42 @@ I enjoy designing **scalable, automated, and reliable infrastructure** by combin
 
 ### 🛠️ Tech Stack & Skills
 
-#### 🌐 Networking & Data Center
+> *Following the DevOps Roadmap 2026 as recommended by my mentor*
+
+#### ☁️ Cloud Fundamentals
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+#### 📦 Containerization & Orchestration
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+
+#### 🏗️ Infrastructure as Code & Configuration Management
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+
+#### 🔄 CI/CD & Automation
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+#### 📊 Observability & Monitoring *(Teacher Recommended)*
+![DataDog](https://img.shields.io/badge/DataDog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Logstash](https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
+
+#### 📨 Messaging & Streaming
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+
+#### 🖥️ Foundations (Linux, Git, Scripting)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+#### 🌐 Networking & Data Center *(My Core Background)*
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![OSPF](https://img.shields.io/badge/OSPF-0052CC?style=for-the-badge&logo=cisco&logoColor=white)
 ![BGP](https://img.shields.io/badge/BGP-0052CC?style=for-the-badge&logo=cisco&logoColor=white)
@@ -53,48 +88,52 @@ I enjoy designing **scalable, automated, and reliable infrastructure** by combin
 ![Cisco ACI](https://img.shields.io/badge/Cisco_ACI-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Nexus](https://img.shields.io/badge/Nexus-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
-#### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-#### 🖥️ Programming & Automation
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-
-#### 🛠️ Monitoring & Tools
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![SolarWinds](https://img.shields.io/badge/SolarWinds-0052CC?style=for-the-badge&logo=solarwinds&logoColor=white)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-00B4F0?style=for-the-badge&logo=servicenow&logoColor=white)
-
 ---
 
 ### 💼 Professional Experience
 
-#### 🟦 MS Engineer – Network | NTT DATA, Chennai *(April 2026 – Present)*
-- Supporting **Data Center and ISP network operations** with **L2/L3 troubleshooting** in a large-scale environment.
-- Configuring and troubleshooting **Cisco ASR 9906 routers**, **Nexus 9000** series, and **Cisco ACI fabric** using **APIC**.
-- Managing routing protocols: **BGP (iBGP/eBGP)**, **OSPF**, **MPLS L3VPN**, and **Policy-Based Routing**.
-- Performing **device health checks**, **IOS upgrades**, **backups**, and **configuration changes**.
-- Collaborating with **L2/L3 teams** for issue resolution and escalation handling.
-- **DevOps alignment:** Automating network health checks using Python scripts; exploring **NetOps** practices.
+#### 🟦 MS Engineer – Network | NTT Global Data Centers, Chennai *(Apr 2026 – Present)*
+Supporting critical Data Centre network operations for **High Frequency Trading (HFT)** environments with focus on high availability, reliability, and low latency connectivity.
+
+- 24×7 Data Centre network operations, monitoring, proactive health checks, and incident troubleshooting.
+- Rack & stack, network device installation, structured cabling, and physical infrastructure deployment.
+- Maintain rack layouts, cable management, asset inventory, and infrastructure documentation.
+- Coordinate with vendors and internal teams for hardware deployment, maintenance, and incident resolution.
+- Follow Incident Management, Change Management, and SLA driven operational processes.
+- **DevOps alignment:** Python automation for network health checks and operational efficiency.
 
 ---
 
-#### 🟦 Network Engineer | IBM, Bengaluru *(July 2022 – September 2025)*
-- Performed **end-to-end troubleshooting** of enterprise **LAN/WAN networks**, minimizing downtime.
-- Configured and maintained **Cisco routers and switches** (2600, 3600, 3700, 3850, 4500, 9300 series).
-- Implemented **VLANs**, **VTP**, **trunking**, **STP/RSTP/MSTP**, **EtherChannel**, **DHCP**, **NAT**.
-- Administered **OSPF**, **EIGRP**, **BGP**, **RIP**, **Static Routes**, and **VRFs**.
-- Configured **high-availability protocols** (**HSRP/VRRP**) for seamless failover.
-- Managed **Cisco ASA firewalls** – security zones, ACLs, NAT, VPNs, and Active/Standby failover.
-- Provided operational support for **Palo Alto** and **FortiGate** firewalls.
-- **DevOps alignment:** Automated backup and configuration validation using Python & Ansible (self-initiated).
+#### 🟦 Network Engineer | IBM, Bengaluru *(Jul 2022 – Sep 2025)*
+End-to-end troubleshooting of enterprise LAN/WAN networks with Cisco routers, switches, and firewalls.
+
+- Configured routing protocols: **OSPF, EIGRP, BGP, RIP, Static Routes, VRFs**
+- Implemented **VLANs, VTP, STP/RSTP/MSTP, EtherChannel, DHCP, NAT**
+- Configured **HSRP/VRRP** for high availability and seamless failover
+- Managed **Cisco ASA firewalls** – security zones, ACLs, NAT, VPNs (Site-to-Site & Remote Access IPSec)
+- Packet-level analysis using **Wireshark** and log monitoring for troubleshooting
+- ASA High Availability (Active/Standby) configuration, firmware upgrades, and patch management
+- Operational support for **Palo Alto** and **FortiGate** firewalls
+- **DevOps alignment:** Automated backup and configuration validation using Python & Ansible
+
+---
+
+#### 🟦 Co-Founder | AxiomFlux Tech *(2024 – Present)*
+Building immersive 3D experiences and AI-powered MVPs for startups. Specializing in turning complex ideas into market-ready products that stand out.
+
+**Recent Projects:**
+- [Cloud Source USA](https://cloudsourceusa.com/) – Website development
+- [Adiantex](https://adiantex.com/) – Website development
+- [Ashley and Alvis](https://ashleyandalvis.com/) – Website development
+- [HG Construction](https://hgconstruction.in/) – Website development
+- [RK Maram Haripur](https://rkmaramharipur.org/) – Website development
+- [RKM Vidyaniketan Midnapore](https://www.rkmvmidnapore.org/) – Website development
+- [Wealth Watcher Management](https://wealthwatchermanagement.com/) – Website development
+
+---
+
+#### 🟦 Founder | SafeTrackID *(Aug 2025 – Present)*
+Built a complete digital identity protection platform from the ground up — from architecture design to full-stack development and production deployment.
 
 ---
 
