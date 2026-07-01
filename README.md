@@ -39,8 +39,7 @@ Currently, I am **transitioning into Cloud Infrastructure and DevOps** by buildi
 I enjoy designing **scalable, automated, and reliable infrastructure** by combining networking, cloud, and DevOps practices.
 
 🔹 **Current Focus:** Network Automation, Cloud Networking, and DevOps Toolchain  
-🔹 **Sharing my journey:** [#30
-DaysOfDevOpst](https://github.com/Koushikroy99/July2026_Koushik_Pathnex)
+🔹 **Sharing my journey:** [#30DaysOfDevOpst](https://github.com/Koushikroy99/July2026_Koushik_Pathnex)
 
 ---
 
@@ -53,14 +52,12 @@ DaysOfDevOpst](https://github.com/Koushikroy99/July2026_Koushik_Pathnex)
 ![MPLS](https://img.shields.io/badge/MPLS-0052CC?style=for-the-badge&logo=cisco&logoColor=white)
 ![Cisco ACI](https://img.shields.io/badge/Cisco_ACI-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Nexus](https://img.shields.io/badge/Nexus-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![ASR](https://img.shields.io/badge/ASR_9906-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 #### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 #### 🖥️ Programming & Automation
@@ -71,7 +68,6 @@ DaysOfDevOpst](https://github.com/Koushikroy99/July2026_Koushik_Pathnex)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
 #### 🛠️ Monitoring & Tools
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![SolarWinds](https://img.shields.io/badge/SolarWinds-0052CC?style=for-the-badge&logo=solarwinds&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-00B4F0?style=for-the-badge&logo=servicenow&logoColor=white)
@@ -111,11 +107,10 @@ DaysOfDevOpst](https://github.com/Koushikroy99/July2026_Koushik_Pathnex)
 | Certification | Issuer | Date |
 |---------------|--------|------|
 | **CCNA** (Routing & Switching) | Cisco | March 2025 |
-| **CCNP** (Trained) | Cisco | February 2024 |
+| **CCNP** (Trained) | N/A | February 2024 |
 | Network Addressing & Troubleshooting | Cisco Networking Academy | December 2023 |
 | Networking Basics | Cisco Networking Academy | October 2023 |
 | **AWS Certified Cloud Practitioner** *(in progress)* | AWS | TBD |
-| **HashiCorp Terraform Associate** *(planned)* | HashiCorp | TBD |
 
 [![View CCNA Certificate](https://img.shields.io/badge/▶%20CCNA-0A66C2?style=for-the-badge&logo=cisco&logoColor=white)](https://drive.google.com/file/d/1RYSmdhvqjxeUgoDSK91F_LYSXIxZv2G4/view)
 [![View Network Addressing](https://img.shields.io/badge/▶%20Network%20Addressing-0A66C2?style=for-the-badge&logo=cisco&logoColor=white)](https://drive.google.com/file/d/1jaC4-i9Bbd6ysZD7uTl0W9mszoxDK4Xf/view)
@@ -194,9 +189,9 @@ graph LR
 📧 **Email:** koushikroy05042001@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/koushikroy99](https://www.linkedin.com/in/koushikroy99)  
 🐦 **Twitter/X:** [@koushikroyfx](https://x.com/koushikroyfx)  
-🌐 **Portfolio:** [koushikportfolio.vercel.app](https://koushikportfolio.vercel.app/)  
+🌐 **Portfolio Website:** [koushikportfolio.vercel.app](https://koushikportfolio.vercel.app/)  
 📱 **Phone:** +91 8345910586 | 9883827329
 
 ---
 
-<h3 align="center">“Connecting networks, empowering systems, and building secure infrastructures.” ⚡</h3>
+<h3 align="center">“Connecting networks, empowering systems, and building secure infrastructures.” </h3>
