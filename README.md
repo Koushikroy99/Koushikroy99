@@ -39,13 +39,13 @@ Currently, I am **transitioning into Cloud Infrastructure and DevOps** by buildi
 I enjoy designing **scalable, automated, and reliable infrastructure** by combining networking, cloud, and DevOps practices.
 
 🔹 **Current Focus:** Network Automation, Cloud Networking, and DevOps Toolchain  
-🔹 **Sharing my journey:** [#30DaysOfDevOps](https://github.com/Koushikroy99/July2026_Koushik_Pathnex) (target="_blank")
+🔹 **Sharing my journey:** <a href="https://github.com/Koushikroy99/July2026_Koushik_Pathnex" target="_blank">#30DaysOfDevOps</a>
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
-> *Following the DevOps Roadmap 2026 as recommended by my mentor*
+> *Following the DevOps Roadmap 2026*
 
 #### ☁️ Cloud Fundamentals
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -67,7 +67,7 @@ I enjoy designing **scalable, automated, and reliable infrastructure** by combin
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-#### 📊 Observability & Monitoring *(Teacher Recommended)*
+#### 📊 Observability & Monitoring 
 ![DataDog](https://img.shields.io/badge/DataDog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Logstash](https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white)
@@ -120,21 +120,21 @@ End-to-end troubleshooting of enterprise LAN/WAN networks with Cisco routers, sw
 
 ---
 
-#### 🟦 Co-Founder | [AxiomFlux Tech](https://www.axiomfluxtech.com/) *(2024 – Present)*
+#### 🟦 Co-Founder | <a href="https://www.axiomfluxtech.com/" target="_blank">AxiomFlux Tech</a> *(2024 – Present)*
 Building immersive 3D experiences and AI-powered MVPs for startups. Specializing in turning complex ideas into market-ready products that stand out.
 
 **Recent Projects:**
-- [Cloud Source USA](https://cloudsourceusa.com/) – Website development
-- [Adiantex](https://adiantex.com/) – Website development
-- [Ashley and Alvis](https://ashleyandalvis.com/) – Website development
-- [HG Construction](https://hgconstruction.in/) – Website development
-- [RKM Ramharipur](https://rkmaramharipur.org/) – Website development
-- [RKM Vidyaniketan Midnapore](https://www.rkmvmidnapore.org/) – Website development
-- [Wealth Watcher Management](https://wealthwatchermanagement.com/) – Website development
+- <a href="https://cloudsourceusa.com/" target="_blank">Cloud Source USA</a> – Website development
+- <a href="https://adiantex.com/" target="_blank">Adiantex</a> – Website development
+- <a href="https://ashleyandalvis.com/" target="_blank">Ashley and Alvis</a> – Website development
+- <a href="https://hgconstruction.in/" target="_blank">HG Construction</a> – Website development
+- <a href="https://rkmaramharipur.org/" target="_blank">RKM Ramharipur</a> – Website development
+- <a href="https://www.rkmvmidnapore.org/" target="_blank">RKM Vidyaniketan Midnapore</a> – Website development
+- <a href="https://wealthwatchermanagement.com/" target="_blank">Wealth Watcher Management</a> – Website development
 
 ---
 
-#### 🟦 Founder | [SafeTrackID](https://www.safetrackid.com/) *(Aug 2025 – Present)*
+#### 🟦 Founder | <a href="https://www.safetrackid.com/" target="_blank">SafeTrackID</a> *(Aug 2025 – Present)*
 Built a complete digital identity protection platform from the ground up — from architecture design to full-stack development and production deployment.
 
 ---
