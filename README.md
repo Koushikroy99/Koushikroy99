@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Network+Engineer;Data+Center+%26+Cloud+Infrastructure;DevOps+Enthusiast;Automation+%7C+CI%2FCD+%7C+Kubernetes" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Network+Engineer;Data+Center+%26+Cloud+Infrastructure;DevOps;Automation+%7C+CI%2FCD+%7C+Kubernetes" alt="Typing SVG" />
 </p>
 
 <h1 align="center">
@@ -39,7 +39,8 @@ Currently, I am **transitioning into Cloud Infrastructure and DevOps** by buildi
 I enjoy designing **scalable, automated, and reliable infrastructure** by combining networking, cloud, and DevOps practices.
 
 🔹 **Current Focus:** Network Automation, Cloud Networking, and DevOps Toolchain  
-🔹 **Sharing my journey:** [#100DaysOfNetworkingExpert](https://github.com/Koushikroy99/100DaysOfNetworkingExpert)
+🔹 **Sharing my journey:** [#30
+DaysOfDevOpst](https://github.com/Koushikroy99/July2026_Koushik_Pathnex)
 
 ---
 
@@ -141,3 +142,61 @@ graph LR
     G --> H[Kubernetes]
     H --> I[CI/CD]
     I --> J[DevOps Engineer]
+
+---
+
+### 🏗️ Projects
+
+<details>
+<summary><b>🏠 SOHO Network Design</b></summary>
+
+- Designed a complete LAN setup with VLANs, DHCP, and inter-VLAN routing
+- Conducted bandwidth monitoring and connectivity optimization
+</details>
+
+<details>
+<summary><b>🏫 University Campus Network</b></summary>
+
+- Built a multi-campus WAN using OSPF and static routing
+- Implemented VLAN segmentation, DHCP services, and security policies
+</details>
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=koushikroy99&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=koushikroy99&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=koushikroy99&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:koushikroy05042001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/koushikroy99/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://koushikportfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 📞 Contact Details
+
+📧 **Email:** koushikroy05042001@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/koushikroy99](https://www.linkedin.com/in/koushikroy99)  
+🐦 **Twitter/X:** [@koushikroyfx](https://x.com/koushikroyfx)  
+🌐 **Portfolio:** [koushikportfolio.vercel.app](https://koushikportfolio.vercel.app/)  
+📱 **Phone:** +91 8345910586 | 9883827329
+
+---
+
+<h3 align="center">“Connecting networks, empowering systems, and building secure infrastructures.” ⚡</h3>
