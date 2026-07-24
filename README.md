@@ -55,6 +55,8 @@ An AI platform for Cloud Network Infrastructure focused on AI Agents, intelligen
 
 ### Tech Stack
 
+### Tech Stack
+
 #### AI & Agentic Systems
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
@@ -98,6 +100,14 @@ An AI platform for Cloud Network Infrastructure focused on AI Agents, intelligen
 - Implemented VLANs, STP, EtherChannel, HSRP/VRRP, DHCP, NAT
 - Managed Cisco ASA firewalls, Site-to-Site & Remote Access VPNs
 - Automated backup and configuration validation using Python & Ansible
+
+**Co-Founder** | [AxiomFlux Tech](https://www.axiomfluxtech.com/)  
+*2024 – Present*  
+Building immersive 3D experiences and AI-powered MVPs for startups.
+
+**Founder** | [SafeTrackID](https://www.safetrackid.com/)  
+*Aug 2025 – Present*  
+Built a complete digital identity protection platform from architecture design to full-stack development and production deployment.
 
 ---
 
