@@ -1,5 +1,5 @@
 <p align="center">  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=AI+GTM+Engineer;Building+AI-Powered+Revenue+Systems;Cloud+Network+%26+Data+Center+Infrastructure;AI+Agents+%7C+Automation+%7C+RevOps" alt="Typing SVG" />  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=AI+GTM+Engineer;Building+RevenuePilot+AI;Building+NetPilot+AI;Cloud+Network+Infrastructure;AI+Agents+%7C+LLMs+%7C+MCP+%7C+RevOps" alt="Typing SVG" />  
 </p>
 
 <h1 align="center">
@@ -8,7 +8,7 @@
 </h1>
 
 <h3 align="center">
-  AI GTM Engineer | Cloud Network Infrastructure | AI Agents & Automation
+  Building AI Products for GTM & Cloud Infrastructure
 </h3>
 
 <p align="center">
@@ -20,46 +20,63 @@
 
 ---
 
+<img src="cloudcenter.gif" width="280" align="right" alt="Network Animation" />
+
 ### About Me
 
-I build **AI-powered automation systems** for Go-To-Market (GTM), Revenue Operations (RevOps), and Cloud Network Infrastructure.
+I build **AI-powered products** that automate Go-To-Market (GTM), Revenue Operations (RevOps), and Cloud Network Infrastructure.
 
 My background is in enterprise networking and mission-critical Data Center operations, with **3.6+ years** of experience supporting highly available production environments at **NTT Global Data Centers**, including High Frequency Trading (HFT) infrastructure.
 
-Today, I’m applying the same engineering mindset to AI — building intelligent systems that connect technical infrastructure with modern revenue workflows.
+Today, I’m building AI-powered products that automate GTM workflows, revenue operations, and cloud infrastructure using modern AI agents and intelligent automation.
 
 **Current Focus:**
-- AI GTM Engineering & RevOps Automation
-- AI Agents, LLMs & Agentic Workflows
-- Cloud Network Infrastructure Automation
+- RevenuePilot AI
+- NetPilot AI
+- AI GTM Engineering
+- Agentic AI
+- Cloud Infrastructure Automation
 
 ---
 
-### Currently Building
+### Featured Projects
 
 **RevenuePilot AI**  
-An AI-native GTM platform focused on AI Agents, RevOps automation, lead intelligence, CRM automation, workflow orchestration, and intelligent sales workflows.  
+*Status: In Development*  
+An AI-native GTM platform focused on AI Agents, RevOps automation, lead intelligence, CRM automation, and intelligent sales workflows.  
 **Tech:** Clay • n8n • HubSpot • Salesforce • Apollo • LangGraph • LLMs
 
 **NetPilot AI**  
-An AI platform for Cloud Network Infrastructure focused on AI Agents, intelligent troubleshooting, infrastructure automation, network operations, and Data Center operations.  
+*Status: In Development*  
+An AI platform for Cloud Network Infrastructure focused on AI Agents, intelligent troubleshooting, infrastructure automation, and Data Center operations.  
 **Tech:** LLMs • MCP • RAG • Python • Network Automation
 
 ---
 
 ### Tech Stack
 
-**AI & Agentic Systems**  
-`AI Agents` `LLMs` `LangGraph` `MCP` `RAG` `Prompt Engineering` `OpenAI` `Claude`
+#### AI & Agentic Systems
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
-**GTM Engineering & RevOps**  
-`Clay` `n8n` `HubSpot` `Salesforce` `Apollo` `Workflow Automation` `Lead Enrichment` `CRM Automation` `API Integration`
+#### GTM Engineering & RevOps
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
-**Automation & Engineering**  
-`Python` `FastAPI` `Docker` `Kubernetes` `Terraform` `Ansible` `AWS` `GitHub Actions` `Linux`
+#### Automation & Engineering
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-**Cloud, Data Center & Networking**  
-`Cloud Network Infrastructure` `Data Center Operations` `Network Automation` `BGP` `OSPF` `VLAN` `High Availability` `Enterprise Networking`
+#### Cloud, Data Center & Networking
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -82,14 +99,6 @@ An AI platform for Cloud Network Infrastructure focused on AI Agents, intelligen
 - Managed Cisco ASA firewalls, Site-to-Site & Remote Access VPNs
 - Automated backup and configuration validation using Python & Ansible
 
-**Co-Founder** | [AxiomFlux Tech](https://www.axiomfluxtech.com/)  
-*2024 – Present*  
-Building AI-powered MVPs and digital products for startups.
-
-**Founder** | [SafeTrackID](https://www.safetrackid.com/)  
-*Aug 2025 – Present*  
-Built a complete digital identity protection platform from architecture to production.
-
 ---
 
 ### Certifications
@@ -97,8 +106,17 @@ Built a complete digital identity protection platform from architecture to produ
 | Certification | Issuer | Status |
 |---------------|--------|--------|
 | CCNA (200-301) | Cisco | Completed (March 2025) |
-| CCNP | - | Trained |
 | AWS Certified Cloud Practitioner | AWS | In Progress |
+
+---
+
+### GitHub Analytics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=koushikroy99&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=koushikroy99&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=koushikroy99&theme=tokyonight" />
+</p>
 
 ---
 
@@ -119,5 +137,5 @@ Built a complete digital identity protection platform from architecture to produ
 ---
 
 <p align="center">
-  <b>“Building intelligent systems that connect infrastructure with revenue.”</b>
+  <b>Building production-grade AI systems for GTM, Cloud Infrastructure, and intelligent automation.</b>
 </p>
