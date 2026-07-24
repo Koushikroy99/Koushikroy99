@@ -24,18 +24,17 @@
 
 ### About Me
 
-I build **AI-powered products** that automate Go-To-Market (GTM), Revenue Operations (RevOps), and Cloud Network Infrastructure.
+I build **AI-powered automation systems** for Go-To-Market (GTM), Revenue Operations (RevOps), and Cloud Network Infrastructure.
 
-My background is in enterprise networking and mission-critical Data Center operations, with **3.6+ years** of experience supporting highly available production environments at **NTT Global Data Centers**, including High Frequency Trading (HFT) infrastructure.
+My background is in enterprise networking and mission-critical Data Center operations, with **3.6+ years** of experience supporting highly available production environments at **NTT Global Data Centers**, including High Frequency Trading (HFT) infrastructure. That experience taught me how to design systems that are reliable, scalable, resilient, and built for real-world operations.
 
-Today, I’m building AI-powered products that automate GTM workflows, revenue operations, and cloud infrastructure using modern AI agents and intelligent automation.
+Today, I’m applying the same engineering mindset to AI by building intelligent automation systems that connect technical infrastructure with modern revenue workflows.
 
 **Current Focus:**
-- RevenuePilot AI
-- NetPilot AI
-- AI GTM Engineering
-- Agentic AI
-- Cloud Infrastructure Automation
+- 🚀 RevenuePilot AI
+- 🌐 NetPilot AI
+- 🤖 Agentic AI & GTM Engineering
+- ☁️ Cloud Infrastructure Automation
 
 ---
 
@@ -43,42 +42,51 @@ Today, I’m building AI-powered products that automate GTM workflows, revenue o
 
 **RevenuePilot AI**  
 *Status: In Development*  
-An AI-native GTM platform focused on AI Agents, RevOps automation, lead intelligence, CRM automation, and intelligent sales workflows.  
+An AI-native GTM platform focused on AI Agents, RevOps automation, lead intelligence, CRM automation, workflow orchestration, and intelligent sales workflows.  
 **Tech:** Clay • n8n • HubSpot • Salesforce • Apollo • LangGraph • LLMs
 
 **NetPilot AI**  
 *Status: In Development*  
-An AI platform for Cloud Network Infrastructure focused on AI Agents, intelligent troubleshooting, infrastructure automation, and Data Center operations.  
+An AI platform for Cloud Network Infrastructure focused on AI Agents, intelligent troubleshooting, infrastructure automation, network operations, and Data Center operations.  
 **Tech:** LLMs • MCP • RAG • Python • Network Automation
 
 ---
 
-### Tech Stack
-
-### Tech Stack
+### Building With
 
 #### AI & Agentic Systems
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-00599C?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge)
 
 #### GTM Engineering & RevOps
+![Clay](https://img.shields.io/badge/Clay-4285F4?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Apollo](https://img.shields.io/badge/Apollo.io-311C87?style=for-the-badge)
 
 #### Automation & Engineering
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 #### Cloud, Data Center & Networking
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![BGP](https://img.shields.io/badge/BGP-000000?style=for-the-badge)
+![OSPF](https://img.shields.io/badge/OSPF-000000?style=for-the-badge)
+![VLAN](https://img.shields.io/badge/VLAN-000000?style=for-the-badge)
+![Network Automation](https://img.shields.io/badge/Network_Automation-00A86B?style=for-the-badge)
+![High Availability](https://img.shields.io/badge/High_Availability-FF4500?style=for-the-badge)
 
 ---
 
@@ -147,5 +155,5 @@ Built a complete digital identity protection platform from architecture design t
 ---
 
 <p align="center">
-  <b>Building production-grade AI systems for GTM, Cloud Infrastructure, and intelligent automation.</b>
+  <b>Building production-grade AI systems that combine AI, automation, GTM workflows, and cloud infrastructure to solve real engineering and business challenges at scale.</b>
 </p>
