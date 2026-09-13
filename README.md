@@ -1,5 +1,5 @@
 <p align="center">  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=AI+GTM+Engineer;Building+RevenuePilot+AI;Building+NetPilot+AI;Cloud+Network+Infrastructure;AI+Agents+%7C+LLMs+%7C+MCP+%7C+RevOps" alt="Typing SVG" />  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=Network+Engineer;Network+Security+Engineer;Building+NetPilot+AI;Network+Automation;Network+Infrastructure+%7C+Firewalls+%7C+Security" alt="Typing SVG" />  
 </p>
 
 <h1 align="center">
@@ -8,7 +8,7 @@
 </h1>
 
 <h3 align="center">
-  Building AI Products for GTM & Cloud Infrastructure
+  Network Engineer | Network Security | Network Automation
 </h3>
 
 <p align="center">
@@ -24,69 +24,90 @@
 
 ### About Me
 
-I build **AI-powered automation systems** for Go-To-Market (GTM), Revenue Operations (RevOps), and Cloud Network Infrastructure.
+I am a **Network Engineer** with **3.6+ years** of experience supporting enterprise and mission-critical Data Centre network infrastructure at **NTT Global Data Centers**, including High Frequency Trading (HFT) environments.
 
-My background is in enterprise networking and mission-critical Data Center operations, with **3.6+ years** of experience supporting highly available production environments at **NTT Global Data Centers**, including High Frequency Trading (HFT) infrastructure. That experience taught me how to design systems that are reliable, scalable, resilient, and built for real-world operations.
+My experience includes network monitoring, routing and switching troubleshooting, connectivity analysis, incident management, infrastructure changes, and network security operations.
 
-Today, I’m applying the same engineering mindset to AI by building intelligent automation systems that connect technical infrastructure with modern revenue workflows.
+I have practical experience supporting secure network connectivity, access control, ACL-related issues, firewall connectivity troubleshooting, VPNs, and identifying network issues related to security policies or configurations.
+
+I am strengthening my expertise in **Palo Alto, Fortinet, Network Automation, and Cloud Security**, while building AI-powered tools for network operations.
 
 **Current Focus:**
-- 🚀 RevenuePilot AI
-- 🌐 NetPilot AI
-- 🤖 Agentic AI & GTM Engineering
-- ☁️ Cloud Infrastructure Automation
+
+- 🌐 Network Engineering and Network Infrastructure
+- 🔐 Network Security and Firewall Technologies
+- 🔥 Palo Alto and Fortinet Technologies
+- 🐍 Network Automation using Python
+- 🤖 AI-assisted Network Operations
+- 🚀 Building NetPilot AI
 
 ---
 
-### Featured Projects
-
-**RevenuePilot AI**  
-*Status: In Development*  
-An AI-native GTM platform focused on AI Agents, RevOps automation, lead intelligence, CRM automation, workflow orchestration, and intelligent sales workflows.  
-**Tech:** Clay • n8n • HubSpot • Salesforce • Apollo • LangGraph • LLMs
+### Featured Project
 
 **NetPilot AI**  
-*Status: In Development*  
-An AI platform for Cloud Network Infrastructure focused on AI Agents, intelligent troubleshooting, infrastructure automation, network operations, and Data Center operations.  
-**Tech:** LLMs • MCP • RAG • Python • Network Automation
+*Status: In Development*
+
+An AI-powered platform for network infrastructure and intelligent network operations.
+
+**Planned Capabilities:**
+
+- AI-assisted network troubleshooting
+- Network monitoring and incident analysis
+- Infrastructure automation
+- Configuration analysis
+- Network documentation assistance
+- AI Agents for Network Operations
+- Integration with network management and security tools
+
+**Tech:** Python • LLMs • MCP • RAG • Network Automation • Network Infrastructure
 
 ---
 
 ### Building With
 
+#### Network Security
+
+![Palo Alto](https://img.shields.io/badge/Palo_Alto_Networks-FA582D?style=for-the-badge&logo=paloaltonetworks&logoColor=white)
+![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+![Cisco ASA](https://img.shields.io/badge/Cisco_ASA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Firewall](https://img.shields.io/badge/Firewall-8B0000?style=for-the-badge)
+![VPN](https://img.shields.io/badge/VPN-5C2D91?style=for-the-badge)
+![ACL](https://img.shields.io/badge/ACL-444444?style=for-the-badge)
+![Network Security](https://img.shields.io/badge/Network_Security-0066CC?style=for-the-badge)
+
+#### Networking & Infrastructure
+
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![BGP](https://img.shields.io/badge/BGP-000000?style=for-the-badge)
+![OSPF](https://img.shields.io/badge/OSPF-000000?style=for-the-badge)
+![EIGRP](https://img.shields.io/badge/EIGRP-000000?style=for-the-badge)
+![VRF](https://img.shields.io/badge/VRF-000000?style=for-the-badge)
+![VLAN](https://img.shields.io/badge/VLAN-000000?style=for-the-badge)
+![STP](https://img.shields.io/badge/STP-000000?style=for-the-badge)
+![EtherChannel](https://img.shields.io/badge/EtherChannel-000000?style=for-the-badge)
+![HSRP](https://img.shields.io/badge/HSRP-000000?style=for-the-badge)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-00599C?style=for-the-badge)
+![DNS](https://img.shields.io/badge/DNS-1679A7?style=for-the-badge)
+![DHCP](https://img.shields.io/badge/DHCP-1679A7?style=for-the-badge)
+![High Availability](https://img.shields.io/badge/High_Availability-FF4500?style=for-the-badge)
+
+#### Automation & Engineering
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
 #### AI & Agentic Systems
+
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-00599C?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge)
-
-#### GTM Engineering & RevOps
-![Clay](https://img.shields.io/badge/Clay-4285F4?style=for-the-badge)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Apollo](https://img.shields.io/badge/Apollo.io-311C87?style=for-the-badge)
-
-#### Automation & Engineering
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-#### Cloud, Data Center & Networking
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![BGP](https://img.shields.io/badge/BGP-000000?style=for-the-badge)
-![OSPF](https://img.shields.io/badge/OSPF-000000?style=for-the-badge)
-![VLAN](https://img.shields.io/badge/VLAN-000000?style=for-the-badge)
-![Network Automation](https://img.shields.io/badge/Network_Automation-00A86B?style=for-the-badge)
-![High Availability](https://img.shields.io/badge/High_Availability-FF4500?style=for-the-badge)
 
 ---
 
@@ -95,27 +116,35 @@ An AI platform for Cloud Network Infrastructure focused on AI Agents, intelligen
 **MS Engineer – Network** | NTT Global Data Centers, Chennai  
 *Apr 2026 – Present*
 
-- Supporting critical Data Centre network operations for High Frequency Trading (HFT) environments
-- Focus on high availability, reliability, and low latency connectivity
-- 24×7 network operations, monitoring, incident troubleshooting, and infrastructure management
-- Python automation for network health checks and operational efficiency
+- Supporting critical Data Centre network operations for High Frequency Trading (HFT) environments.
+- Focused on high availability, reliability, and low-latency connectivity.
+- Performing 24×7 network monitoring, health checks, incident troubleshooting, and infrastructure management.
+- Troubleshooting network connectivity, performance, and availability issues across production environments.
+- Supporting secure network connectivity and network security-related troubleshooting.
+- Assisting with network changes, device replacement, planned maintenance, and service restoration.
+- Using basic Python automation for network health checks and operational efficiency.
 
 **Network Engineer** | IBM, Bengaluru  
 *Jul 2022 – Sep 2025*
 
-- End-to-end troubleshooting of enterprise LAN/WAN networks (Cisco routers, switches, firewalls)
-- Configured routing protocols: OSPF, EIGRP, BGP, VRFs
-- Implemented VLANs, STP, EtherChannel, HSRP/VRRP, DHCP, NAT
-- Managed Cisco ASA firewalls, Site-to-Site & Remote Access VPNs
-- Automated backup and configuration validation using Python & Ansible
+- Performed end-to-end troubleshooting of enterprise LAN/WAN networks involving Cisco routers, switches, and firewalls.
+- Configured and troubleshot routing protocols including OSPF, EIGRP, BGP, and VRFs.
+- Implemented and supported VLANs, STP, EtherChannel, HSRP/VRRP, DHCP, and NAT.
+- Managed Cisco ASA firewalls and supported Site-to-Site and Remote Access VPNs.
+- Troubleshot firewall connectivity, access control, ACL-related issues, and network security incidents.
+- Performed network traffic and connectivity analysis to identify configuration and security-related issues.
+- Supported network changes, incident resolution, and service restoration activities.
+- Automated configuration backup and validation using Python and Ansible.
 
 **Co-Founder** | [AxiomFlux Tech](https://www.axiomfluxtech.com/)  
-*2024 – Present*  
+*2024 – Present*
+
 Building immersive 3D experiences and AI-powered MVPs for startups.
 
 **Founder** | [SafeTrackID](https://www.safetrackid.com/)  
-*Aug 2025 – Present*  
-Built a complete digital identity protection platform from architecture design to full-stack development and production deployment.
+*Aug 2025 – Present*
+
+Built a digital identity protection platform from architecture design to full-stack development and production deployment.
 
 ---
 
@@ -123,7 +152,8 @@ Built a complete digital identity protection platform from architecture design t
 
 | Certification | Issuer | Status |
 |---------------|--------|--------|
-| CCNA (200-301) | Cisco | Completed (March 2025) |
+| CCNA (200-301) | Cisco | Completed — March 2025 |
+| Palo Alto Networks Next-Generation Firewall Certification | Palo Alto Networks | In Progress |
 | AWS Certified Cloud Practitioner | AWS | In Progress |
 
 ---
@@ -155,5 +185,5 @@ Built a complete digital identity protection platform from architecture design t
 ---
 
 <p align="center">
-  <b>Building production-grade AI systems that combine AI, automation, GTM workflows, and cloud infrastructure to solve real engineering and business challenges at scale.</b>
+  <b>Building reliable and secure network infrastructure through networking, security, automation, and intelligent engineering solutions.</b>
 </p>
