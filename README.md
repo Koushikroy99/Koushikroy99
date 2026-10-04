@@ -24,7 +24,7 @@
 
 ### About Me
 
-I am a **Network Engineer** with **3.6+ years** of experience supporting enterprise and mission-critical Data Centre network infrastructure at **NTT Global Data Centers**, including High Frequency Trading (HFT) environments.
+I am a **Network Engineer** with **3.8+ years** of experience supporting enterprise and mission-critical Data Centre network infrastructure at **NTT Global Data Centers**, including High Frequency Trading (HFT) environments.
 
 My experience includes network monitoring, routing and switching troubleshooting, connectivity analysis, incident management, infrastructure changes, and network security operations.
 
